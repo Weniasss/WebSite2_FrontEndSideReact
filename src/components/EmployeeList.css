@@ -1,0 +1,7 @@
+.Container {
+	position: relative;
+	background: rgba(0, 0, 0, 0.1);
+}
+.title {
+	text-shadow: .05em .05em 0 #797D7F ;
+}
